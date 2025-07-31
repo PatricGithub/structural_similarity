@@ -1,0 +1,303 @@
+id;image_path;figures_original;difference_figuren;rating;answer;fascination;participant_id;expertise;fromwhere;zuversichtlich;beurteilt;beurteiler1_yesno;beurteiler1_scaled;beurteiler2_yesno;beurteiler2_scaled;use_this;beurteiler3_yesno;ELO-RATING;accuracy_pixel_by_pixel;figuren;analogy_yes_no;time_on_board
+1;2;8;0;5bk1/3QR2p/2B5/8/8/8/4P3/3K4;in klassisches Mattmuster bahnt sich an. Die weiße Dame und der Turm kontrollieren die 7. Reihe, während der Läufer die Diagonale beherrscht. Der schwarze König ist in der Ecke gefangen, mit dem eigenen Bauern als Hindernis.;5;54f1c9ac7a;Advanced;1;5;2;1;4;1;4;;;1433;0.765625;8;1;20.651300000000003
+3;5;14;-8;8/3r2p1/6kp/8/2N5/8/4K3/8;Der Springer gabelt den König und den Turm, wodurch der König zum Ziehen gezwungen wird und die Optionen von Schwarz eingeschränkt werden.;2;54f1c9ac7a;Advanced;1;4;2;1;4;1;5;;;1433;0.703125;6;1;33.6898
+4;3;13;-10;8/8/8/1KN4k/8/8/8/8;Nicht genügen Material. Trotz weißem Pferd.;4;54f1c9ac7a;Advanced;2;2;2;1;4;1;4;;;1433;0.75;3;1;14.925300000000004
+6;14;12;-1;3qk3/r7/RrR1pP2/8/3p4/2PK4/8/8;"Türme auf den a- und b-Linien stehen in einer interessanten Balance. Ihre Präsenz auf diesen halboffenen Linien schafft gegenseitigen Druck und neutralisiert gleichzeitig die Vorteile des Gegners. Diese Turmkonfiguration erinnert an das Konzept der ""Turmverdopplung"", jedoch mit dem Unterschied, dass die Türme auf benachbarten Linien postiert sind, was eine Kontrolle über das Zentrum und den Damenflügel ermöglicht. Dame auf d8 spielt eine Schlüsselrolle in dieser Stellung. Ihre Position ist multifunktional: Einerseits übt sie Druck auf die d-Linie aus, andererseits bietet sie Unterstützung für den Turm auf b6.";3;54f1c9ac7a;Advanced;2;4;2;0;3;1;4;;1.0;1433;0.6875;11;1;32.3074
+9;6;11;0;8/8/7k/4pPp1/3pP1P1/2pP3K/2P5/8;Dieses mal habe ich alles gleich belassen.;2;54f1c9ac7a;Advanced;2;5;2;1;1;1;2;;;1433;0.984375;11;1;25.8196
+10;15;12;-6;8/2R5/2rk4/5p2/5P2/4K3/8/8;Weißer Turm auf c7 attackiert den schwarzen Turm auf c6 und wird dann vom schwarzen König genommen. in der zwischenzeit kann dann der weiße König den schwarzen Bauern sichern.;3;54f1c9ac7a;Advanced;1;3;2;0;3;1;3;;1.0;1433;0.71875;6;1;36.3244
+11;2;8;0;8/4p1r1/4k3/5N2/4Q1P1/8/8/3RK3;Diese komplexe Stellung zeigt einen Angriff auf den König im Zentrum. Der weiße Springer auf f5 ist ein Schlüsselstein in der Stellung, der den schwarzen König bedroht und gleichzeitig die Verteidigung schwächt. Die weiße Dame und der Turm sind perfekt positioniert, um den Druck zu erhöhen, während der g4-Bauer wichtige Fluchtfelder kontrolliert.;5;54f1cace7a;Advanced;2;5;2;1;4;1;2;;;1289;0.796875;8;1;16.9751
+12;1;7;0;7k/5Rn1/6PN/8/8/2B5/8/2K5;Der weiße Turm auf e7 und der Bauer auf g6 bilden einen starken Mattangriff.;3;54f1cace7a;Advanced;1;4;2;1;5;1;5;;;1289;0.90625;7;1;39.2923
+15;11;8;2;2k5/2p5/4n2b/6r1/2NP2RP/3K4/8/8;Auch hier gleiht sich das Material aus. Keiner hat irgendwelche Vorteile. Auch wenn es unterschiedliches Material ist.;5;54f1cace7a;Advanced;1;4;2;0;3;1;4;;1.0;1289;0.765625;10;1;36.3396
+17;12;8;-1;8/8/4bb1k/7p/8/2B3P1/5K2/8;Läufer auf c3 und Läufer auf f6 stechen sich gegenseitig aus.  Der Rest gleicht sich ebenfalls aus und es kann im Remi enden.;5;54f1cace7a;Advanced;2;5;2;1;4;1;3;;;1289;0.765625;7;1;31.1818
+19;6;11;0;3k4/1pppp3/8/8/8/8/1PPPPP2/3K4;Das war sozusagend ie gleiche Anzahl an Bauern, jedoch an der jeweils in der 2 und 7 Linie.;5;54f1cace7a;Advanced;1;2;2;1;4;1;3;;;1289;0.671875;11;1;24.1061
+21;2;8;-3;6rk/R7/2NQ4/8/8/8/8/8;Die Koordination von Turm, Dame und Pferd schränkt den schwarzen König massiv ein, schwarze Turm die Verteidigung behindert.;5;54f1cbf07a;Advanced;1;5;2;1;5;1;4;;;1338;0.8125;5;1;39.8239
+22;1;7;-2;k1K5/b7/8/1Np5/8/8/8/8;Das weiße Pferd kann mit einem geschickten Zug eine Matt Situation voll ausbauen;3;54f1cbf07a;Advanced;1;3;2;0;3;1;4;;1.0;1338;0.8125;5;1;17.7142
+23;5;14;-9;8/8/2q1kp2/8/3N4/3K4/8/8;"In der Schachstrategie bezeichnet man als ""Königsgabel"" eine taktische Kombination, bei der ein einzelner Springer gleichzeitig den gegnerischen König und die Dame angreift.";4;54f1cbf07a;Advanced;1;4;2;1;4;1;4;;;1338;0.71875;5;1;36.8547
+24;3;13;-10;8/8/6k1/8/3NK3/8/8/8;Ungenügend Material, weißes Pferd ist nicht genug;4;54f1cbf07a;Advanced;1;4;2;1;4;1;4;;;1338;0.78125;3;1;27.2433
+26;14;12;-4;4k3/7n/6r1/2p3b1/2P1B3/3K4/8/8;Läufer auf e4 nimmt g6 gibt Schach auf e8 und kann anschließend den Springer auf h7 nehmen. Damit ist es wieder ein ausgeglichenes Spiel;3;54f1cbf07a;Advanced;1;4;2;0;3;1;3;;1.0;1338;0.734375;8;1;21.6272
+27;12;8;-3;8/2k5/4n3/2b5/3N4/8/4K3/8;Springer auf d4 nimmt Springer auf e6 gibt dann den König auf c7 ein Schach un nimmt dann den Läufer auf c5. König auf c6 nimmt Läufer c5. Remi;3;54f1cbf07a;Advanced;2;2;2;1;4;1;5;;;1338;0.8125;5;1;30.7999
+30;15;12;-7;8/8/7k/8/6bP/8/6BK/8;Der Bauer auf h4 kann nicht vorwärts rücken, da er sofort vom König auf h6 oder dem Läufer auf g4 geschnappt werden würde.;3;54f1cbf07a;Advanced;2;3;2;1;4;1;4;;;1338;0.765625;5;1;16.660700000000002
+31;2;8;1;8/4kq2/4p1p1/4N3/2B5/3Q4/8/R1K5;In dieser dynamischen Mittelspielstellung hat Weiß einen koordinierten Angriff auf den exponierten schwarzen König im Zentrum aufgebaut. Die weiße Dame, der Läufer und der Springer bilden eine gefährliche Batterie, während der Turm bereit ist, in die Aktion einzugreifen. Die schwarzen Bauern bieten nur minimalen Schutz und behindern gleichzeitig die Verteidigungsmöglichkeiten des Königs.;5;54f1cd087a;Advanced;1;5;2;1;4;1;5;;;1110;0.75;9;1;21.3252
+32;1;7;0;knR5/2P5/8/3p4/1K1n4/8/8/8;Der weiße Bauer auf c7 kann zur Königin werden und gleichzeitig nicht nur das weiße Pferd schlagen, sondern dem schwarzen König ein Matt geben.;2;54f1cd087a;Advanced;1;4;2;1;5;1;4;;;1110;0.78125;7;1;36.2238
+33;5;14;-8;8/3q1k2/2r3p1/4N3/8/5K2/8/8;Königsgabel- Dabei handelt es sich um einen gleichzeitigen Angriff auf König, Dame und Turm. In Fachkreisen wird diese Konstellation auch als Königsgabel bezeichnet.;4;54f1cd087a;Advanced;1;4;2;1;4;1;4;;;1110;0.71875;6;1;21.5013
+34;3;13;-3;8/8/8/4p1k1/3pPp2/3P1Pp1/6P1/5K2;blockierenden Bauern eine Pattsituation ein klares Remi;4;54f1cd087a;Advanced;1;3;2;1;2;1;2;;;1110;0.78125;10;1;36.56
+36;14;12;-2;1n3k2/8/1b1r4/p6p/P4B1P/3K4/8/8;Läufer auf f4 nimmt d6 Turm gibt Schach auf f8 und kann anschließend den Springer auf b8 nehmen. Damit ist es wieder ein ausgeglichenes Spiel;1;54f1cd087a;Advanced;2;4;2;0;3;1;4;;1.0;1110;0.671875;10;1;43.088
+37;12;8;-1;5r2/6k1/4n1p1/8/3N2P1/8/4K3/8;Springer auf d4 nimmt Springer auf e6 gibt dann den König auf g7 ein Schach und nimmt dann den Turm auf f8. König auf g7 nimmt Springer auf f8. Die Bauern bleiben übrig und geht in Remi;5;54f1cd087a;Advanced;2;5;2;0;3;1;5;;1.0;1110;0.765625;7;1;35.0619
+38;8;9;1;R4bk1/4pppp/8/8/8/8/2R3P1/5K2;Turm a8 nimmt Lf8, König muss Turm nehemen. Material Austausch. Tc2 geht auf Grundlinie. Schachmatt.;5;54f1cd087a;Advanced;1;4;2;0;3;1;3;;1.0;1110;0.78125;10;1;35.1432
+39;6;11;0;8/8/7k/4pPp1/3pP1P1/2pP3K/2P5/8;Alles gleich geblieben;5;54f1cd087a;Advanced;2;5;2;1;1;1;2;;;1110;0.984375;11;1;48.2438
+41;2;8;-1;2kr4/1p6/2N5/1Q6/8/4B3/8/8;Der schwarze König ist in der Ecke gefangen, mit seinen eigenen Bauern als Hindernis. Die weiße Dame und der Springer arbeiten zusammen, um kritische Felder zu kontrollieren, während der Läufer bereit ist, in den Angriff einzugreifen. Der b6-Bauer schränkt die Verteidigungsmöglichkeiten zusätzlich ein.;5;54f1ce2a7a;Advanced;1;5;2;1;4;1;4;;;788;0.796875;7;1;21.1299
+42;1;7;-1;7k/6b1/R7/5PN1/8/8/3K4/8;Der weiße Turm auf a6 und der Bauer auf f5 kontrollieren die Schlüsselfelder um den schwarzen König. Der weiße Springer bedroht sowohl den schwarzen Läufer als auch das Feld f7, was Schachmatt in einem Zug vorbereitet.;2;54f1ce2a7a;Advanced;1;4;2;1;4;1;5;;;788;0.828125;6;1;32.6868
+43;5;14;-9;8/7k/4q3/6N1/6K1/5r2/8/8;"Die Königsgabel, ein taktischer Schachzug par excellence, zeichnet sich durch einen simultanen Angriff auf die drei mächtigsten Figuren aus: König, Dame und Turm. Schachexperten verwenden für diese raffinierte Konstellation den prägnanten Begriff ""Königsgabel""";2;54f1ce2a7a;Advanced;1;4;2;1;4;0;2;;1.0;788;0.71875;5;1;18.616
+44;3;13;-3;8/4k3/3p4/2pP4/1pP1K3/pP6/P7/8;Ungenügend Material;4;54f1ce2a7a;Advanced;1;3;2;1;2;1;3;;;788;0.65625;10;1;47.8924
+45;11;8;0;8/1p6/p4k2/3p4/P2P3P/5K2/8/8;Die Bauern stechen sich gegenseitig aus. Es könnte ein remi werden;4;54f1ce2a7a;Advanced;1;4;2;1;1;1;2;;;788;0.875;8;1;25.2143
+47;12;8;-2;4kr2/8/4n3/8/3N4/5P2/4K3/8;"Ich helfe Ihnen gerne dabei, diese Schachsequenz klarer zu formulieren:
+Die Zugfolge wäre: Sxe6+ (Springer schlägt e6 mit Schach), Sxf8+ (Springer schlägt Turm auf f8 mit Schach), Kxf8 (König schlägt Springer auf f8). Die Stellung endet im Remis.";5;54f1ce2a7a;Advanced;1;5;2;0;3;1;3;;1.0;788;0.78125;6;1;37.8713
+48;8;9;-1;6R1/8/8/7p/1Q4bk/8/4B2P/6K1;Weißer Läufer auf e2 wird auf G4 gesetzt, dann durch Bauer auf h5 attackiert. Trotzdem endet es durch ein Matt bei Dame auf b4;4;54f1ce2a7a;Advanced;2;5;2;0;3;1;4;;1.0;788;0.765625;8;1;45.542
+49;6;11;-2;kp6/r7/R4p2/R3P3/6p1/8/7K/8;Es ist immer noch ein ausgeglichenes Brett, das in einer Patt Situation endet.;5;54f1ce2a7a;Advanced;1;5;2;0;3;1;4;;1.0;788;0.734375;9;1;56.0603
+50;15;12;-5;8/8/4k1p1/5p1b/4P3/4KB2/8/8;Das sollte ein einfaches Remi ergeben ohne zuviele Bauern auf dem Feld.;4;54f1ce2a7a;Advanced;2;3;2;1;4;1;3;;;788;0.71875;7;1;20.2626
+52;1;7;0;6k1/4Pn1R/7P/3b4/4N3/8/8/8;Weiß dominiert die Stellung mit einem Turm auf der 7. Reihe und einem gefährlich vorrückenden Bauern auf e8.;3;54f1cf4c7a;Advanced;1;4;2;1;4;1;4;;;1367;0.8125;7;1;23.7402
+54;3;13;-10;8/8/2kb4/5K2/8/8/8/8;keine Seite genug Figuren für ein mögliches Matt besitzt;4;54f1cf4c7a;Advanced;1;3;2;1;4;1;4;;;1367;0.765625;3;1;12.3069
+56;14;12;-1;8/8/p7/P1p1kBp1/3b2Pp/5K1P/8/8;Das Spiel habe ich dieses mal einfach übernommen. ;3;54f1cf4c7a;Advanced;1;5;2;1;2;1;5;;;1367;0.9375;11;1;38.7173
+60;15;12;-6;8/8/3k1n2/3b4/2B1P3/8/3K4/8;egal welcher Material Autausch wie stattfindet. Das endresult ist wieder ein Remi;3;54f1cf4c7a;Advanced;1;3;2;1;4;1;4;;;1367;0.71875;6;1;37.7502
+61;2;8;0;1rq5/k7/1p1Q4/1P6/1N6/1R6/8/8;Die weiße Dame auf d6 ist besonders bedrohlich, unterstützt durch den Turm und den Läufer. Der b5-Bauer schränkt die Bewegungsfreiheit des schwarzen Königs weiter ein. Die schwarzen Figuren sind unglücklich positioniert und behindern sich gegenseitig bei der Verteidigung.;5;54f1d0647a;Advanced;1;5;2;1;4;1;4;;;788;0.765625;8;1;34.8037
+63;5;14;-8;3n4/5N2/3q3k/4P3/5K2/8/8/8;en synchronen Angriff auf König, Dame und Turm. Dieses Manöver, das Schachkenner als Königsgabel bezeichnen;4;54f1d0647a;Advanced;1;4;2;1;4;1;4;;;788;0.6875;6;1;22.7056
+65;11;8;1;8/7p/p7/3kq3/1n6/P2B2Q1/6K1/8;Dg3xe5 leitet einen zwingenden Abtausch der Damen ein, gefolgt von einem unvermeidlichen Königsangriff auf die exponierte Dame. ungenügenden Material um ein Matt zu machen;5;54f1d0647a;Advanced;1;1;2;1;4;1;4;;;788;0.78125;9;1;30.7456
+66;14;12;-1;8/8/p7/2p1kBp1/P2b2Pp/5K1P/8/8;dieses Mal wurde das Spiel gleich gelassen.;2;54f1d0647a;Advanced;2;4;2;1;2;1;2;;;788;0.9375;11;1;69.5338
+68;8;9;1;1R6/8/kp5Q/2p5/2n5/3P4/1R4p1/3K4;Nach dem Springertausch und der anschließenden Turm-Elimination öffnet sich die zweite Reihe fatal für Schwarz. Die weiße Dame nutzt diese Schwäche gnadenlos aus - Db2#! Ein mustergültiges Grundreihenmatt nach vorheriger Materialautusch;2;54f1d0647a;Advanced;1;4;2;0;3;1;3;;1.0;788;0.71875;10;1;26.4886
+69;6;11;-8;8/2k5/8/8/2K1N3/8/8/8;Ein klassisches Remi;5;54f1d0647a;Advanced;2;5;2;0;3;1;4;;1.0;788;0.78125;3;1;9.5773
+70;15;12;-4;8/8/2pk1n2/3q4/3RP3/2NK4/8/8;Eine Pattsituation kündigt sich an.;3;54f1d0647a;Advanced;1;3;2;0;3;1;1;;1.0;788;0.703125;8;1;22.6187
+71;2;8;-3;6rk/2Q2R2/6P1/8/8/8/8/8;Die weiße Dame und der Turm beherrschen die vorletzte Reihe, während der Bauer den schwarzen König einkesselt. Der schwarze Turm behindert die Verteidigung mehr, als er hilft;5;54f1d1867a;Advanced;2;5;2;1;5;1;3;;;853;0.8125;5;1;11.88
+73;5;14;-9;3k3b/5N2/7q/8/5K2/8/8/8;Die Königsgabel ist ein Meisterstück der Schachtaktik. Bei dieser Kombination werden die drei wichtigsten Figuren des Gegners - König, Dame und Turm - gleichzeitig angegriffen;4;54f1d1867a;Advanced;1;1;2;1;4;1;4;;;853;0.703125;5;1;16.5732
+74;3;13;-10;8/8/3n4/8/2k5/4K3/8/8;Patt Situation;4;54f1d1867a;Advanced;1;3;2;1;4;1;4;;;853;0.75;3;1;14.691300000000002
+75;11;8;-3;8/8/6q1/k2p3K/3P4/8/8/8;Kxg6 eliminiert den schwarzen Läufer, eröffnet aber gleichzeitig dem schwarzen König den Weg zum kritischen d4-Bauern. Diese Dynamik könnte in einem Wettlauf münden, bei dem Schwarz versucht, seinen verbliebenen Bauern zur Umwandlung zu bringen;5;54f1d1867a;Advanced;1;5;2;0;3;1;5;;1.0;853;0.796875;5;1;11.5588
+76;14;12;-6;8/8/4NK2/5B2/2kn4/3b4/8/8;"Die Stellung präsentiert eine ausbalancierte Mittelspielposition mit identischer Leichtfigurenverteilung - je ein Springer und ein Läufer pro Seite. Diese Symmetrie schafft ein Kräftegleichgewicht mit vielfältigen taktischen und strategischen Optionen für beide Parteien, ohne eindeutigen Vorteil.
+Diese Konstellation erinnert an die legendäre 16. Partie des WM-Kampfes zwischen Spassky und Fischer, die trotz komplexen Positionskampfes remis endete.";3;54f1d1867a;Advanced;2;4;2;1;4;1;4;;;853;0.765625;6;1;23.5496
+77;12;8;-3;8/k7/1q6/3P4/8/4Q3/5K2/8;Die Damen eliminieren sich gegenseitig, wonach die resultierende Stellung zum Remis führt.;4;54f1d1867a;Advanced;2;5;2;0;3;1;4;;1.0;853;0.8125;5;1;22.788400000000003
+78;8;9;-4;kp6/1p6/8/8/3R4/8/2K5/8;Matt in einem Zug ohne Material zu verlieren;1;54f1d1867a;Advanced;1;4;2;0;3;1;3;;1.0;853;0.78125;5;1;19.5914
+79;6;11;-6;8/2k5/4K1p1/7p/6P1/8/8/8;Trotz Bauernvorsprung wird diese Partie in einem Patt aufgehen, denn die Könige bleiben wieder einmal übrig..;5;54f1d1867a;Advanced;2;5;2;0;3;1;4;;1.0;853;0.765625;5;1;36.2911
+80;15;12;-6;8/8/2k1n3/2n5/1P2N3/4K3/8/8;Die Pferde sind im Materialaustausch und werden aufgelöst. es bleibt nicht mehr viel danach zu klären. Es wir dim Remi münden;3;54f1d1867a;Advanced;1;3;2;1;4;1;4;;;853;0.734375;6;1;22.1023
+82;1;7;1;2kn4/1b1R4/2P5/1N6/8/8/7B/K7;Eine Mattsituation bahnt sich an. Turm Springer und Läufer arbeiten zusammen um das finale Matt zu setzen.;3;54f1d2a87a;Advanced;1;4;2;1;5;1;4;;;1271;0.78125;8;1;21.2712
+83;5;14;-7;8/2b1k3/5q2/1P1N1p2/2K5/8/8/8;koordinierte Angriff auf König, Dame und Turm in einem einzigen Zug. Diese beeindruckende Konstellation, in Fachkreisen als Königsgabel bekannt;4;54f1d2a87a;Advanced;1;4;2;1;4;1;4;;;1271;0.703125;7;1;22.1697
+84;3;13;-3;8/8/6k1/5p2/4pPp1/3pP1P1/3P4/7K;gleiche Situation;4;54f1d2a87a;Advanced;1;3;2;1;2;1;3;;;1271;0.71875;10;1;27.0473
+85;11;8;3;8/2R3p1/p4pPp/P6P/8/2q5/2k2K2/8;Txc3 initiiert einen forcierten Materialabtausch, bei dem der weiße König die Dame auf c3 zurückschlagen muss, was zu einer signifikanten Vereinfachung der Stellung führt. Die verbleibenden verstreuten Bauern kreieren ein komplexes Endspie;5;54f1d2a87a;Advanced;1;4;2;1;4;1;5;;;1271;0.734375;11;1;34.0583
+87;12;8;0;8/1p6/p7/P1p1k3/2P5/3PK3/8/8;Ich finde da nichts neues im Vergleich zur anderen Patt Situation ;5;54f1d2a87a;Advanced;1;5;2;1;1;1;2;;;1271;0.96875;8;1;29.4297
+88;8;9;2;8/3p1p1n/8/1K1Q2bk/8/1n6/2pB4/6R1;Ld2-g5! Eine Drohung gegen den exponierten schwarzen Bauern. Doch es ist eine Falle - der schwarze Springer auf h7 schlägt den Läufer mit Fatal für Schwarz, denn dies öffnet die diagonale Batterie für die weiße Dame, die mit einem eleganten Dh6# das sofortige Matt setz;4;54f1d2a87a;Advanced;1;4;2;0;3;1;4;;1.0;1271;0.765625;11;1;36.4057
+89;6;11;-8;8/8/8/3k4/6K1/5B2/8/8;ist für mich ziemlich ähnlich, weil es keinen Sieger geben kann.;1;54f1d2a87a;Advanced;2;3;2;0;3;1;3;;1.0;1271;0.78125;3;1;21.1155
+91;2;8;-2;8/5Bpk/1Q6/5N2/8/8/4K3/8;Eine gefährliche Angriffskonstellation. Die weiße Dame, der Läufer und der Springer arbeiten zusammen, um den schwarzen König in der Ecke zu bedrohen, während der Bauer die Verteidigung erschwert.;5;54f1d3c07a;Advanced;1;5;2;1;5;1;5;;;1032;0.828125;6;1;37.1435
+92;1;7;-2;8/P7/2R5/8/1b6/1K6/8/k7;Weiß hat den schwarzen König auf der a-Linie gefangen und der weiße Bauer droht zu einer Dame zu werden. Der schwarze Läufer versucht, die Kontrolle über die Diagonalen zu behalten, während der Springer vergeblich versucht, das Matt abzuwenden.;3;54f1d3c07a;Advanced;1;4;2;1;4;1;4;;;1032;0.828125;5;1;19.8428
+94;3;13;-10;8/8/2k5/8/8/8/4N3/3K4;Auch ein Remi;5;54f1d3c07a;Advanced;2;3;2;1;4;1;5;;;1032;0.75;3;1;20.184
+99;6;11;-7;8/3bk3/8/8/5K2/5B2/8/8;Auch hier ist es nochausgeglichen und es wird in einem Remi übergehen;5;54f1d3c07a;Advanced;2;5;2;0;3;1;4;;1.0;1032;0.75;4;1;26.0687
+100;15;12;-7;8/5k2/5nn1/8/4B3/4K3/8/8;Ein Ednspiel mit einem Pferd kündigt sich an.;3;54f1d3c07a;Advanced;2;3;2;0;3;1;4;;1.0;1032;0.734375;5;1;34.8997
+101;2;8;-3;6k1/4R3/5Q1q/5N2/8/8/8/8;Ein klassisches Ersticktesmatt-Muster droht. Der schwarze König ist in der Ecke gefangen, während die weißen Figuren perfekt zusammenarbeiten.;5;54f1be267a;Advanced;2;5;2;1;4;1;5;;;1009;0.796875;5;1;26.428800000000003
+102;1;7;-2;k7/2RnP3/8/8/8/8/8/6K1;er weiße Bauer auf e7 ist kurz davor, umzuwandeln Der schwarze König ist gefangen und die Verteidigung kämpft gegen die überwältigenden weißen Kräfte.;3;54f1be267a;Advanced;2;4;2;1;4;1;4;;;1009;0.828125;5;1;29.6791
+103;5;14;-9;r1r5/3q4/3p4/3N4/8/8/8/8;"Ich habe eine ""Unstoppable Fork"" auf dem Brett positioniert. Diese Stellung garantiert eine unvermeidbare Gabel im nächsten Zug, unabhängig von der gegnerischen Reaktion.";4;54f1be267a;Advanced;1;5;2;1;4;1;4;;;1009;0.71875;5;1;21.2899
+104;3;13;-9;8/8/2k5/3b4/8/8/4B3/3K4;Zwei Läufer auf gleicher Bahn, ein Remi;4;54f1be267a;Advanced;1;3;2;1;4;1;5;;;1009;0.734375;4;1;17.155300000000004
+105;11;8;-2;8/2k5/2q5/3p4/4B3/2Q5/3K4/8;Dxc6 initiiert eine forcierte Abwicklung, bei der Kxc6 zwangsläufig folgt und das Spielfeld von Schwerfiguren bereinigt. Die resultierende Stellung mit nur einem verbleibenden Läufer fällt in die Kategorie des ungenügenden Materials, da ein Mattsetzen unmöglich wir;5;54f1be267a;Advanced;1;1;2;0;3;1;4;;1.0;1009;0.78125;6;1;21.522800000000004
+109;6;11;-5;8/3b2k1/5b2/8/3BK3/5B2/8/8;Der weiße Läufer auf d4 wird sich den Läufer auf f6 schnappen, woraufhin der König g7 f6 geht, das sollte in einem Remi enden.;5;54f1be267a;Advanced;1;5;2;0;3;1;4;;1.0;1009;0.765625;6;1;31.4644
+110;15;12;-7;8/2kb4/2q5/8/2R5/1K6/8/8;Sobald die Dame auf d6 attackiert wird durch den weißen Turm, endet es in einem Patt, da nur ein Läufer noch übgri ist.;3;54f1be267a;Advanced;1;3;2;0;3;1;4;;1.0;1009;0.75;5;1;24.2402
+112;1;7;-2;8/1bR2P2/8/8/8/k7/8/1K6;Ein Matt bahnt sich an, der Bauer wird zur Königin und gibt ein Schach. Der schwarze König ist gefangen und die Verteidigung kämpft gegen die überwältigenden weißen Kräfte.;3;54f1bf487a;Advanced;1;4;2;1;4;1;1;;;1298;0.828125;5;1;33.5476
+113;5;14;-9;8/8/8/4n1q1/7k/5N2/8/4r3;"Ich stellte eine ""German Fork"" auf - eine seltene Vierfachgabel. Mit einem Springer griff ich gleichzeitig König, Dame, Turm und Läufer an.";4;54f1bf487a;Advanced;2;4;2;1;4;1;5;;;1298;0.734375;5;1;26.4969
+118;8;9;-2;k1b1R3/pp6/8/1K6/8/5B2/8/8;Ein Matt bahnt sich an durch Turm auf e8.;4;54f1bf487a;Advanced;1;5;2;0;3;1;5;;1.0;1298;0.75;7;1;27.5648
+121;2;8;1;1kr5/R7/2B2p2/3Q1P2/6P1/8/8/2K5;Weiß kontorllirt die 7. Reihe und droht mit einem vernichtenden Angriff. Der schwarze König sitzt in der Falle, während sein Turm die Verteidigung behindert.;1;54f1c06a7a;Advanced;1;4;2;1;4;1;1;;;953;0.734375;9;1;30.776300000000003
+122;1;7;1;1R6/6P1/6P1/5R2/2kbN3/8/8/K7;Ein Matt bahnt sich an, der Bauer wird zur Königin und gibt ein Schach. Springer setzt den König unter Druck, Türme ;3;54f1c06a7a;Advanced;1;4;2;1;4;1;1;;;953;0.796875;8;1;31.2729
+124;3;13;-9;8/5k2/8/5b2/B7/8/2K5/8;zwei gleiche läufer. Ein Patt;5;54f1c06a7a;Advanced;1;3;2;1;4;1;4;;;953;0.765625;4;1;12.461399999999998
+125;11;8;3;8/1N5P/2kn2p1/3p2P1/3Pb3/3B3K/8/8;h7-h8D markiert einen entscheidenden Wendepunkt durch die Bauernumwandlung zur stärksten Figur. Die neu entstandene Materialkonstellation mit zusätzlichen Leichtfiguren wie Springer und Läufer schafft ein komplexes Kräftegleichgewicht;1;54f1c06a7a;Advanced;1;4;2;1;4;1;5;;;953;0.71875;11;1;31.324
+126;14;12;-1;8/3p4/3P1p2/kqR3R1/1rPK4/2N5/8/8;Der weiße Turm eliminiert die Dame auf b2, was in dieser Zugzwangposition einen unvermeidlichen Materialaustausch von Turm gegen Springer einleitet. Diese forcierte Abwicklung führt aller Wahrscheinlichkeit nach zu einer ausgeglichenen Endspielstellung, die in einem Remis kulminieren sollte.;3;54f1c06a7a;Advanced;1;2;2;0;3;1;4;;1.0;953;0.6875;11;1;32.3416
+129;6;11;-7;8/3kn3/8/5N2/6K1/8/8/8;Nicht genügend Material um ein Schachmatt zu erzwingen;5;54f1c06a7a;Advanced;2;5;2;0;3;1;4;;1.0;953;0.78125;4;1;11.9673
+130;15;12;-4;8/4k1p1/3r1r2/4P3/3R1R2/4K3/8/8;Die gleiche Anzahl an türmen . das Spiel ist ausgeglichen.;5;54f1c06a7a;Advanced;2;3;2;0;3;1;5;;1.0;953;0.71875;8;1;25.7526
+131;2;8;0;4r3/5kPb/2Q2N2/4P3/8/8/8/5K2;der schwarze König ist bedroht. Die weißen Figuren arbeiten harmonisch zusammen.;5;54f1c18c7a;Advanced;1;5;2;1;5;1;5;;;1432;0.796875;8;1;35.6091
+132;1;7;0;7R/6P1/8/8/4N1k1/6b1/8/K4R2;Ein subtiles Endspielmanöver kündigt sich an. Die Bauernumwandlung zur Dame mit Schachgebot eröffnet eine taktische Kaskade. Der Springer, geschickt postiert, schnürt das Netz um den gegnerischen Monarchen enger, während die Türme, wie stumme Wächter, bereit stehen, den finalen Todesstoß zu versetzen. Diese Konstellation erinnert an Botwinnik's brillante Endspielführung, wo schseinbar harmlose Bauern plötzlich zu matchentscheidenden Faktoren werden.;3;54f1c18c7a;Advanced;1;4;2;1;5;1;5;;;1432;0.796875;7;1;23.3778
+133;5;14;-9;8/8/8/2q1k3/1n6/3N4/5r2/8;"Gerade habe ich eine schachliche Rarität erschaffen: Die ""German Fork"". Mein Springer bedroht nun vier gegnerische Figuren auf einmal.";4;54f1c18c7a;Advanced;1;4;2;1;4;1;4;;;1432;0.71875;5;1;24.2858
+134;3;13;-2;8/6k1/6p1/5pP1/4pP2/3pP2K/3P4/7B;Ähnlcihe Situation. Ein Pattsituation;4;54f1c18c7a;Advanced;1;5;2;1;1;1;1;;;1432;0.75;11;1;42.4459
+135;11;8;1;1k6/2b2p2/6p1/6P1/Kr3N2/6P1/8/8;Weißer Königsschlag auf b4 eliminiert den letzten schwarzen Schwerfigur, was in rapidem Materialabtausch resultiert. Die Stellung mündet in ein theoretisches Remis.;2;54f1c18c7a;Advanced;2;4;2;0;3;1;4;;1.0;1432;0.75;9;1;31.0799
+137;12;8;-1;8/2b1k3/8/3p4/3PPP2/8/5K2/8;Auch das kann in einem Remi münden.;5;54f1c18c7a;Advanced;2;5;2;1;4;1;5;;;1432;0.765625;7;1;22.7181
+140;15;12;-5;8/p7/P7/4k1p1/6P1/6K1/8/5B2;Ich habe nur ein paar Figuren rduziert.;3;54f1c18c7a;Advanced;2;3;2;0;3;1;4;;1.0;1432;0.859375;7;1;25.2093
+141;2;8;1;Q5rk/3p1pp1/5N2/8/4B3/8/2K5/8;Die weiße Dame und der Läufer kontrollieren die Diagonale, der schwarze König ist in der Ecke festhält. Der schwarze Turm ist in einer passiven Position.;5;54f1c2a47a;Advanced;1;5;2;1;4;1;4;;;947;0.78125;9;1;35.7989
+147;12;8;0;8/1p6/p7/P1p1k3/2P5/3PK3/8/8;Die Situation ist doch ähnlich wie vorher;5;54f1c2a47a;Advanced;2;2;2;1;1;1;5;;;947;0.96875;8;1;37.4777
+148;8;9;2;8/8/4n3/3Q2bk/p7/1p5p/1KpB4/6R1;Turm g2 nimmt läufer g5. Wird aber genommen vom schwazren Springer auf e6. Weiße Dame gibt finales Matt nach all dem Material Austausch;4;54f1c2a47a;Advanced;2;4;2;0;3;1;4;;1.0;947;0.71875;11;1;55.5511
+149;6;11;0;8/8/7k/4pPp1/3pP1P1/2pP3K/2P5/8;Dieses mal ist mir nichts groß eingefallen;5;54f1c2a47a;Advanced;2;5;2;1;1;1;4;;;947;0.984375;11;1;42.432
+151;2;8;-1;7k/6bp/8/8/4B3/8/6R1/2K2R2;Die weißen Türme dominieren die offene f-Linie und die zweite Reihe, während der Läufer den schwarzen König und Springer einschränkt.;2;54f1c40c7a;Advanced;1;3;2;0;3;1;4;;1.0;949;0.796875;7;1;27.1496
+152;1;7;-1;6R1/8/7k/4P3/8/4K3/5R2/7b;Matt in einem Zug durch weißen Turm;3;54f1c40c7a;Advanced;1;4;2;1;5;1;5;;;949;0.796875;6;1;37.5733
+153;5;14;-9;2r5/8/2r3k1/3N4/8/8/3K4/8; Schwarz in Zugzwang. Material-Verlust unausweichlich;4;54f1c40c7a;Advanced;2;2;2;1;4;1;4;;;949;0.734375;5;1;33.354
+155;11;8;0;8/1p6/p4k2/3p4/P2P3P/5K2/8/8;Auch ein typisches Remi;1;54f1c40c7a;Advanced;1;3;2;1;1;1;1;;;949;0.875;8;1;25.788
+160;15;12;-6;5n2/5k2/4n3/8/1B3N2/3K4/8/8;Ein Blatt was sich selber auflöst. es wir dzum Remi kommen.;3;54f1c40c7a;Advanced;1;3;2;1;4;1;5;;;949;0.71875;6;1;15.320100000000004
+162;1;7;-4;8/8/8/8/7Q/4K3/8/5k2;Matt in einem Zug durch weiße Königin;2;54f1c5387a;Advanced;1;4;2;1;5;1;3;;;1172;0.84375;3;1;12.2188
+163;5;14;-9;1q3r2/8/3P4/3KN3/8/8/8/8;" Mit überlegener Strategie habe ich eine ""unaufhaltsame Gabel"" kreiert.";4;54f1c5387a;Advanced;1;1;2;1;4;1;2;;;1172;0.765625;5;1;27.8513
+166;14;12;-2;3kr3/3p1pp1/8/8/8/8/3P1PP1/4RK2;Türm auf ee8 und e1 können sich gegenseitig aufopfern. Danach sind noch die gleich vielen Bauen übrig;3;54f1c5387a;Advanced;2;4;2;0;3;1;5;;1.0;1172;0.65625;10;1;33.973800000000004
+169;6;11;-3;8/1ppk4/2p5/1PPP4/2K5/8/8/8;Die figuren blocken sich gegenseitig aus. ;5;54f1c5387a;Advanced;2;5;2;1;4;1;5;;;1172;0.6875;8;1;32.641
+170;15;12;-7;6k1/3p4/4n3/8/2B2N2/8/7K/8;Eine Endpartie mit Pferd wird anstehen.;3;54f1c5387a;Advanced;1;3;2;1;4;1;4;;;1172;0.71875;5;1;34.5232
+171;2;8;-2;4k3/4r3/8/8/2B5/5Q2/3R4/3K4;Die weiße Dame und der Turm üben Druck auf die zweite Reihe aus, während der Läufer die Diagonale kontrolliert. Der schwarze König und Turm sind in einer eingeschränkten Position auf der achten Reihe.;5;54f1c6507a;Advanced;1;3;2;1;4;1;4;;;1413;0.78125;6;1;26.341
+172;1;7;-2;8/8/8/1p1Q4/k2K4/8/8/5B2;Matt in einem Zug durch Königin die auf a2 sich bewegt. Der scwarze König kann nicht fliehen.;3;54f1c6507a;Advanced;1;4;2;1;5;1;5;;;1413;0.8125;5;1;28.1668
+173;5;14;-8;4n2K/6N1/4r3/5q1k/8/8/8/8;eine der seltensten Schachtaktiken aufgestellt zu haben. Meine Vierfachgabel mit dem Springer greift alle wichtigen gegnerischen Figuren an.;4;54f1c6507a;Advanced;2;2;2;1;4;1;4;;;1413;0.6875;6;1;22.741100000000003
+177;12;8;-3;8/8/8/3p1k2/1p1P4/2K5/8/8;König c3 nimmt c4 Bauer. Die Bauern blieben übrig und Königen auch. Eine Pattsituatiuon;1;54f1c6507a;Advanced;2;5;2;1;4;1;5;;;1413;0.796875;5;1;20.1452
+179;6;11;-3;8/5k2/5pp1/5pP1/4PP2/5K2/8/8;Die Bauern spielen sich gegenseitig aus. Das endet warhcheinlich in einem Remi;5;54f1c6507a;Advanced;2;5;2;1;4;1;3;;;1413;0.78125;8;1;33.2948
+181;2;8;-2;2KR4/4RBkq/8/8/8/8/8/8;Die weißen Türme kontrollieren die 7. und 8. Reihe, während der Läufer auf f7 die gleiche Rolle wie der Springer in der Originalstellung übernimmt.;2;54f1c7727a;Advanced;2;3;2;1;2;1;2;;;973;0.859375;6;1;29.6229
+183;5;14;-9;3q3r/8/7k/4N3/4K3/8/8/8;Stelle aufgebaut für klassische  unaufhaltsame Gabel. Springerzug droht. Gabel auf f7 unvermeidbar - trifft h8, d8 und h6. Materielle Verlust garantiert;4;54f1c7727a;Advanced;1;4;2;1;4;1;4;;;973;0.703125;5;1;30.4917
+185;11;8;-1;8/8/1Pk1p3/4P3/8/5n2/6B1/6K1;Weiße g1 unter Attacke vom Springer auf f3, doch der Läufer kann die Diagonale halten und gleichzeitig ein Schach dem schwarzen König geben, der dann den weisen Bauern nimmt, der eine Dame hätte werden ko4nnen auf b8;5;54f1c7727a;Advanced;1;4;2;1;4;1;4;;;973;0.78125;7;1;24.867800000000003
+187;12;8;-3;8/4p1k1/8/8/1p6/2K1P3/8/8;Der König auf c3 schlägt den Bauern auf c4. Nach diesem Zug verbleiben nur noch die restlichen Bauern und beide Könige auf dem Brett, was in einer Pattstellung endet;5;54f1c7727a;Advanced;2;5;2;1;4;0;5;;1.0;973;0.8125;5;1;11.0414
+188;8;9;-2;8/4R3/8/3B4/2Q1qk1K/5b2/8/8;Ein eleganter Angriff beginnt mit Te5, wodurch die schwarze Dame spektakulär erobert wird. Trotz des verzweifelten Verteidigungsversuchs durch den schwarzen Läufer führt die präzise Damenführung zum unvermeidlichen Matt.;3;54f1c7727a;Advanced;2;3;2;0;3;1;3;;1.0;973;0.75;7;1;37.17
+192;1;7;-4;2k5/5R2/2K5/8/8/8/8/8;Matt in einem Zug durch weißen Turm;3;54f1c88a7a;Advanced;1;2;2;1;5;1;4;;;1296;0.890625;3;1;33.2098
+194;3;13;-2;8/4k3/6p1/3p1pK1/2pPpP2/2P1P3/8/8;König nimmt den Läufer auf g6 und es ist eventuell eine Pattsituation;4;54f1c88a7a;Advanced;1;3;2;1;2;1;5;;;1296;0.703125;11;1;58.8009
+195;11;8;1;8/3n3k/8/1pN2P2/1P3p2/8/2B5/5K2;f5 Bauer geht voran und kann eine Dame entwickeln, jedoch kommt König eventuell voraus von h7 auf f7;5;54f1c88a7a;Advanced;2;4;2;1;4;1;1;;;1296;0.75;9;1;39.3785
+199;6;11;-1;8/5k2/5p2/3p1P1p/3P3P/5p2/5P2/5K2;Auch hier sind alle bauern gestoppt und können nicht voranschreiten.;5;54f1c88a7a;Advanced;2;5;2;1;4;1;5;;;1296;0.734375;10;1;46.5807
+201;2;8;0;4B1kr/2B5/6p1/3N3p/8/8/3K4/8;Die beiden weißen Läufer kontrollieren zentrale Linien und bedrohen die Position des schwarzen Königs, der nur noch wenige Fluchtmöglichkeiten hat. Der Springer auf d5 verstärkt den Druck und stellt eine Gabelgefahr dar, während der schwarze Turm auf h8 nahezu blockiert ist.;5;54f1b2f07a;Advanced;1;5;2;0;3;1;4;;1.0;808;0.75;8;1;28.715300000000003
+203;5;14;-5;2r3k1/8/2q5/3N1p1p/4P1p1/5P2/3K4/8; Schwarz in Zugzwang. Material-Verlust unausweichlich;4;54f1b2f07a;Advanced;1;4;2;1;4;1;1;;;808;0.640625;9;1;29.2232
+206;14;12;-1;8/8/P7/2p1kBp1/3b2Pp/5K1P/2P5/8;Das ist einfach eine ähnlcihe Situation, die nicht unbedingt in einem Remi enden muss.;1;54f1b2f07a;Advanced;1;4;2;1;2;1;4;;;808;0.953125;11;1;25.0469
+207;12;8;-1;8/8/8/3p4/3Ppk2/4P3/5Pq1/7K;König auf h1 schlägt die Dame auf b2. Nach diesem Schlag verbleiben nur noch die Bauern und beide Könige auf dem Brett, was in einer Pattstellung resultiert.;5;54f1b2f07a;Advanced;2;5;2;1;4;1;2;;;808;0.765625;7;1;34.4119
+211;2;8;-1;3pk1n1/2QR4/4N3/8/8/8/8/2K5;Klassische 7. Reihe Dominanz mit Mattdrohung. Springer schneidet Fluchtfelder ab, Bauer behindert eigenen König.;5;54f1b4087a;Advanced;2;5;2;1;5;1;1;;;944;0.765625;7;1;21.4247
+212;1;7;-1;8/7P/8/8/8/K7/2b4R/k7;Weiß hat den schwarzen König auf der a-Linie gefangen und der weiße Bauer droht zu einer Dame zu werden;3;54f1b4087a;Advanced;2;1;2;1;4;1;2;;;944;0.8125;6;1;30.986
+213;5;14;-9;r3q3/5k2/8/3N4/8/8/3K4/8;Unparierbare Gabel vorbereitet. Springer zielt auf c7. Dreifach-Angriff folgt. Schwarze Hauptfiguren in der Falle.;4;54f1b4087a;Advanced;1;4;2;1;4;1;4;;;944;0.71875;5;1;24.2842
+214;3;13;-3;8/8/6k1/5pP1/4pP2/3pP2K/3P4/6B1;Eine ähnliche Situation wie vorher;4;54f1b4087a;Advanced;1;3;2;1;2;1;3;;;944;0.734375;10;1;38.338
+215;11;8;0;8/2k5/5b2/P3p1p1/3P1B2/8/2K5/8;Eine weitere ähnliche Situation wie im anderen;5;54f1b4087a;Advanced;1;5;2;1;4;1;4;;;944;0.765625;8;1;20.5897
+216;14;12;-1;8/p7/P7/4kBp1/3b2Pp/1P3K1P/8/8;Das ist zwar kein Remi, aber zeigt, wie ein anders Spiel hätte verlaufen können.;4;54f1b4087a;Advanced;2;4;2;1;2;1;2;;;944;0.984375;11;1;27.8613
+221;2;8;-2;Rrk5/8/2BQ4/3K4/8/8/8/8;Turm fixiert König, Dame und Läufer bilden tödliche Batterie. Schwarzer Turm blockiert vitale Fluchtroute;5;54f1b52a7a;Advanced;2;5;2;1;5;1;4;;;1201;0.828125;6;1;29.8622
+222;1;7;-2;8/4P3/N1k1K3/8/1R6/8/8/8;"Die Stellung spitzt sich dramatisch zu: Der Bauer transformiert zur Dame, eine tickende Zeitbombe. Der Springer, wir ein Stilett, durchbohrt die königliche Verteidigung. Turm und Läfer - Verzeihung, Turm und König - riegeln die Fluchtwege hermetisch ab. Diese Konstellation erinnert an Nimzowitschs berühmte ""Belagerungstechnik"", nur dass hier der eigene König als Angriffsfigur brilliert";3;54f1b52a7a;Advanced;1;4;2;1;4;1;4;;;1201;0.84375;5;1;13.4962
+231;2;8;-3;8/8/6kp/3N4/2Q5/5R2/8/8;"schwarzer Bauer auf h6
+Gespannte Gabel-Stellung mit Mattdrohungen. König exponiert, eigener Bauer schränkt Verteidigung ein.";5;54f1b6567a;Advanced;1;5;2;0;3;1;4;;1.0;1118;0.796875;5;1;35.1652
+233;5;14;-9;7r/5q1k/4r3/8/8/5N2/6K1/8;Stellung für zwangsläufige Gabel vorbereitet. Sg5 nächster Zug. König h7, Dame f7, Turm e6 im Visier. Schwarz hilflos.;4;54f1b6567a;Advanced;2;4;2;1;4;1;3;;;1118;0.703125;5;1;20.5754
+236;14;12;-6;8/8/8/4k1p1/6Pp/5K1P/8/8;Ein klares remi, allerdings mit weniger schachfiguren;3;54f1b6567a;Advanced;2;3;2;1;4;0;3;;1.0;1118;0.90625;6;1;20.9738
+238;8;9;-4;R2rk1q1/8/8/7K/3Q4/1B6/8/8;Die Dame auf d4 nimmt den Turm auf d8, schach matt.;4;54f1b6567a;Advanced;1;4;2;0;3;1;4;;1.0;1118;0.75;5;1;23.207600000000003
+239;6;11;-6;8/2k5/1p2p3/2P5/4K3/8/8/8;Endet im Remi;5;54f1b6567a;Advanced;2;5;2;0;3;1;4;;1.0;1118;0.75;5;1;33.5477
+240;15;12;-7;8/8/8/8/2b3K1/3k4/4P3/5B2;Endspiel mit 1ner Figur;3;54f1b6567a;Advanced;1;3;2;1;4;1;4;;;1118;0.75;5;1;29.4413
+242;1;7;0;7k/8/3P1NKN/8/3P4/8/4p3/8;Weißes Pferd kann von h6 auf f7 springen um ein schachmatt herbezuzuabern.;3;54f1b76e7a;Advanced;1;4;2;0;3;1;4;;1.0;1427;0.828125;7;1;39.4349
+243;5;14;-8;r3b2k/2N5/4q3/8/8/8/8/6K1;Gabel ohne Ausweg. Sg7 als Schlüsselzug. König, Dame, Turm im Fadenkreuz.;1;54f1b76e7a;Advanced;1;4;2;1;4;1;4;;;1427;0.703125;6;1;35.7075
+244;3;13;-2;8/8/6k1/6p1/5pPp/4pP1P/4P1K1/7B;Patt;5;54f1b76e7a;Advanced;1;4;2;1;1;1;2;;;1427;0.734375;11;1;42.4198
+245;11;8;2;8/3kr3/3r1p2/p2R3P/P3R3/3K4/8/8;eine weiterer eventueller Patt Situation;2;54f1b76e7a;Advanced;1;4;2;1;4;1;5;;;1427;0.75;10;1;36.7326
+246;14;12;-1;8/1p6/8/2p1kBp1/3b2Pp/1P3K1P/8/8;Mir ist nichts besseres eingefallen.;3;54f1b76e7a;Advanced;2;5;2;1;2;1;4;;;1427;0.953125;11;1;39.0804
+247;12;8;0;8/1p6/p7/P1p1k3/2P5/3PK3/8/8;ICh habe die Situation gleich aufgebaut..;2;54f1b76e7a;Advanced;2;5;2;1;1;1;2;;;1427;0.96875;8;1;32.0031
+248;8;9;1;5r1k/5p1p/5P1N/2p5/3P4/8/8/K5R1;Gleiches Blatt wie vorher.;4;54f1b76e7a;Advanced;2;4;2;1;2;1;3;;;1427;0.953125;10;1;45.077
+250;15;12;-5;6b1/6p1/1K4P1/3k4/2P5/1B6/8/8;Ein ednspiel mit 3 Figuren, die noch übrig sind.;3;54f1b76e7a;Advanced;1;3;2;1;4;1;2;;;1427;0.71875;7;1;36.2927
+252;1;7;2;7k/8/6KN/2B5/PqP5/1p6/b7/8;Schachmatt in nur einem Zug durch c5 zu d4;3;54f1b8907a;Advanced;1;5;2;1;5;1;1;;;1275;0.796875;9;1;28.7672
+254;3;13;-2;b1k5/p1p5/PpPpK3/1P1P4/8/8/8/8;König bremst den anderen König aus. Ein remi;3;54f1b8907a;Advanced;2;3;2;1;2;1;1;;;1275;0.625;11;1;37.2102
+261;2;8;-2;5k2/4q3/8/8/7B/6Q1/8/4RK2;Bedrohliche Ausrichtung auf e7-Schwachpunkt. Läufer fixiert e7 und Turm.;5;54f1b9b27a;Advanced;1;2;2;1;3;1;2;;;1144;0.796875;6;1;34.7785
+262;1;7;-2;8/1P6/1k1K4/4n3/R7/8/8/8;Ein fulminantes Finale zeichnet sich ab: Bauernverwandlung mit Schach als Auftakt, Turm und König stehen zum finalen Schlag bereit – Aljechin'sche Präzision im Endspiel.;4;54f1b9b27a;Advanced;1;4;2;1;5;1;5;;;1144;0.8125;5;1;37.1559
+263;5;14;-9;8/8/5n2/8/4N3/2q5/3k1r2/8;Klssiceh Taktiken im Schach ist der koordinierte Angriff auf König, Dame und Turm in einem einzigen Zug. Diese beeindruckende Konstellation, in Fachkreisen als Königsgabel bekannt, stellt eine ernsthafte Bedrohung für den Gegner dar.;4;54f1b9b27a;Advanced;1;4;2;1;4;1;4;;;1144;0.734375;5;1;25.7213
+265;11;8;-5;8/8/4k2P/8/8/3K4/8/8;Der Bauer kann eine Dame machen auf h8, schhwarz verliert.;5;54f1b9b27a;Advanced;1;4;2;1;4;1;3;;;1144;0.828125;3;1;33.4618
+266;14;12;-3;8/8/8/2p1kBp1/3b2Pp/5K1P/8/8;Die Langeweile setzt langsam ein... wieso ist das eine wichtige Position?;5;54f1b9b27a;Advanced;2;4;2;1;2;1;5;;;1144;0.953125;9;1;30.0741
+269;6;11;-3;8/8/k7/pp6/1pP5/1P1K4/P7/8;Eine kleine Bauernansammlung im Endspiel.;5;54f1b9b27a;Advanced;2;4;2;1;4;1;5;;;1144;0.703125;8;1;34.233000000000004
+271;2;8;-2;8/k7/1p6/P1N5/8/1Q6/8/2K5;Netzmattkonstellation am Damenflügel. Springer kontrolliert kritische Felder, Bauer schnürt ein.;5;54f1baca7a;Advanced;1;5;2;1;4;1;5;;;1121;0.78125;6;1;24.9623
+272;1;7;-2;r7/8/k1B5/2K5/8/8/7Q/8;h2 auf a1 resultiert auf Schachmatt.;3;54f1baca7a;Advanced;1;4;2;1;5;1;5;;;1121;0.828125;5;1;31.2273
+273;5;14;-9;2r1q3/7k/3N4/8/8/8/3K4/8;Springer d6 droht. Dame undTurm gleichzeitig angegriffen. Schwarz ist machtlos.;4;54f1baca7a;Advanced;1;2;2;1;4;1;4;;;1121;0.71875;5;1;29.7102
+274;3;13;-10;8/2k5/8/8/8/5N2/3K4/8;Remi;4;54f1baca7a;Advanced;1;3;2;1;4;1;4;;;1121;0.75;3;1;9.0799
+275;11;8;-1;8/8/2kB3P/1p5p/8/4b3/4K3/8;schwarz könnte im Vorteil sein, doch weiß bekommt die Dame früher durch Aufopferung von d6 Läufer;5;54f1baca7a;Advanced;2;4;2;1;4;1;2;;;1121;0.78125;7;1;26.0424
+276;14;12;-3;8/8/8/2p1kBp1/3b2Pp/1P3K2/8/8;Dieses mal wird schwarz gewinen. aber diese Position regt nicht an um analogien zu finden...;3;54f1baca7a;Advanced;2;4;2;1;2;1;3;;;1121;0.953125;9;1;25.1121
+277;12;8;-3;8/4Kp2/4p3/8/8/3kB3/8/8;Weißer König auf e7 sammelt Bauern auf f7 und e6.Schwarzer König sammelt den weißen Läufer auf e3;5;54f1baca7a;Advanced;2;5;2;1;4;1;4;;;1121;0.828125;5;1;17.5075
+282;1;7;-2;3k4/2R5/1N1K2n1/8/8/8/8/8;Weißer Tum von c7 auf Grundlinie wird gedeckt durch Springer;3;54f1bbec7a;Advanced;1;4;2;1;5;1;3;;;1279;0.828125;5;1;12.5161
+283;5;14;-9;8/5q1k/4b3/6N1/8/8/3K4/8;Springer g5 droht. König, Dame, Turm gleichzeitig angegriffen. Weiß am Zug, Schwsarz machtlos. Partie praktisch gewonnen.;4;54f1bbec7a;Advanced;1;4;2;1;4;1;5;;;1279;0.71875;5;1;33.9756
+284;3;13;-9;8/2k5/3b4/8/8/4B3/3K4/8;Läufer können sich gegenseitig auspielen eine Pattsituation;4;54f1bbec7a;Advanced;1;3;2;1;4;1;4;;;1279;0.734375;4;1;34.921
+285;11;8;-2;8/6P1/2k5/1p1n4/8/4N3/4K3/8;Bauer wird zur Dame auf g8;5;54f1bbec7a;Advanced;1;4;2;1;4;1;5;;;1279;0.796875;6;1;31.9531
+286;14;12;-4;8/2k1p3/3n1n2/8/1B2N3/3K1P2/8/8;trotz überzahl von Schwarz könnte dies in ein Remi enden.;3;54f1bbec7a;Advanced;2;4;2;0;3;1;2;;1.0;1279;0.703125;8;1;32.1385
+290;15;12;-7;8/4kr2/8/2KR4/3p4/8/8/8;total ausgeglichenes Spiel nur mit weniger figuren und Türmen anstelle der Läufer.;3;54f1bbec7a;Advanced;1;3;2;1;4;1;4;;;1279;0.765625;5;1;39.6259
+291;2;8;0;8/6kb/6p1/4N2Q/6P1/8/5R2/2K5;potentielles Damenopfer auf h7 bahnt sich an. Springer deckt Dame und droht Gabel, Bauer verhindert Verteidigung.;5;54f1bd047a;Advanced;1;5;2;1;4;1;5;;;1436;0.796875;8;1;34.1154
+292;1;7;-2;3k4/1R6/4K3/1N6/8/8/8/r7;Die B-Linie führt zu einem klarem Schachmatt durch weißen Turm und springer;3;54f1bd047a;Advanced;1;4;2;1;5;1;5;;;1436;0.8125;5;1;17.5042
+293;5;14;-9;8/5q2/8/4k3/8/5N1r/2K5/8;Unvermeidbare Gabel aufgebaut. Springerzug nach g5 bringt's. Schwarze Hauptfiguren auf f7 gefesselt.;4;54f1bd047a;Advanced;1;4;2;1;4;1;5;;;1436;0.71875;5;1;37.6069
+294;3;13;-10;8/2k5/8/8/8/4BK2/8/8;Das ist eine Pattsituation;4;54f1bd047a;Advanced;1;3;2;1;4;1;4;;;1436;0.75;3;1;29.5094
+295;11;8;-1;8/5p2/3k1bK1/3p4/3PP3/8/8/8;Das läuft auf ein Remi raus...;5;54f1bd047a;Advanced;1;1;2;1;4;1;4;;;1436;0.765625;7;1;23.8423
+297;12;8;-3;8/8/1k1p4/3p4/1PK5/8/8/8;Die Bauern werden von den Königen aufgesammelt und dann ist es ein klassisches Remi;5;54f1bd047a;Advanced;2;3;2;1;4;1;4;;;1436;0.8125;5;1;36.5573
+299;6;11;-3;8/8/1k6/2p5/1pP4p/1P5P/K7/8;bauern werden gegeseitig eingesetzt und keiner kann durchdringen.;1;54f1bd047a;Advanced;2;5;2;1;4;1;2;;;1436;0.703125;8;1;21.2889
+302;1;7;2;8/2Q5/1R6/k1bK4/8/4pnP1/5R2/8;Dame zieht von c7 auf a7 und bereitet ein Schachmatt mit Absprache vom Turm auf b6;3;54f1a7a67a;Advanced;2;1;2;1;5;1;5;;;1290;0.75;9;1;35.4957
+303;5;14;-7;8/8/3q4/1n4p1/4N1K1/8/3k1r2/8;"Angriff auf die drei mächtigsten Figuren aus: König, Dame und Turm. Schachexperten verwenden für diese raffinierte Konstellation den prägnanten Begriff ""Königsgabel"".";4;54f1a7a67a;Advanced;1;4;2;1;4;1;4;;;1290;0.6875;7;1;36.0162
+304;3;13;-9;4k3/3n4/8/8/5N2/5K2/8/8;Zwei Pferde die sich auseinander spielen können. ;4;54f1a7a67a;Advanced;1;3;2;1;4;1;4;;;1290;0.734375;4;1;30.610100000000003
+307;12;8;1;8/1n4k1/2p1q3/2b3N1/1P6/5P2/3K4/8;Springer nimmt von g5 auf e6 die schwarze Dame und gibt ein Schach der Dame, dann kann er den Läufer auf c5 attackieren, doch der schwarze Springer auf b7 wird Kontra geben und letztlich sollten 2 Bauern Figuren übrigen bleiben.;5;54f1a7a67a;Advanced;2;5;2;0;3;1;4;;1.0;1290;0.765625;9;1;32.3477
+308;8;9;2;5r1k/5p1p/5P1N/1p6/1P6/4B1R1/8/K7;Genau das Gleiche Brett. mIr fiel nicht ein.;4;54f1a7a67a;Advanced;1;4;2;0;3;1;3;;1.0;1290;0.90625;11;1;39.1448
+311;2;8;-1;8/3p1p2/4k3/5N2/3Q2P1/8/8/2K5;Zugzwang für den schwarzen König. Pferd blockiert den Rückzug des Königs.;5;54f1a8c87a;Advanced;1;5;2;1;5;1;5;;;1106;0.78125;7;1;21.6774
+313;5;14;-9;8/8/8/3n4/4N3/2q5/3k1r2/8;Königsgabel bekannt ist. Diese brillante Manöver ermöglicht es, die gegnerischen Hauptfiguren in einem Zug zu bedrohen.;4;54f1a8c87a;Advanced;1;4;2;1;4;1;5;;;1106;0.734375;5;1;25.9875
+314;3;13;-3;3k4/6p1/3p1pP1/3PpP2/4P3/3K4/8/8;Ein Remi;4;54f1a8c87a;Advanced;1;3;2;1;2;1;2;;;1106;0.78125;10;1;34.3758
+318;8;9;-1;5rRk/5p1p/5P1N/8/8/8/8/4K3;Ein Schritt weiter im Spiel;4;54f1a8c87a;Advanced;1;4;2;1;2;1;1;;;1106;0.921875;8;1;22.487800000000004
+322;1;7;0;7k/5NR1/3n3P/8/8/8/8/3K4;Ich habe es einfach nachgebaut;3;54f1a9e07a;Novice;2;1;2;1;5;1;2;;;565;0.84375;7;1;43.3671
+324;3;13;-2;8/4pk2/3pPp2/2pP1Pp1/2P3K1/8/8/8;einfach nur ähnlich;2;54f1a9e07a;Novice;2;3;2;1;2;0;2;;1.0;565;0.734375;11;1;46.603100000000005
+328;8;9;0;4r1k1/4P1p1/4p1N1/8/8/8/4p3/2K3R1;Der Block ist noch da... ;3;54f1a9e07a;Novice;1;4;2;1;2;1;2;;;565;0.78125;9;1;60.2077
+331;2;8;-2;R7/2R2Nkr/8/8/8/4K3/8/8;weißer Turm attackiert indirekt den schwarzen König sobald sich das wieße Pferd entfernt...;5;54f1ab027a;Novice;2;5;2;1;4;1;4;;;683;0.890625;6;1;35.6236
+345;11;8;1;8/6p1/p2k3p/2P2p2/3K3P/5P2/8/8;Bauern haben eine Pattsituation;5;54f1ac247a;Novice;1;5;2;1;4;1;3;;;512;0.8125;9;1;31.072
+353;5;14;-6;r3k3/7q/1P2N3/6p1/2K5/6B1/8/8;Unparierbare Gabel vorbereitet. Springer zielt auf c7.;2;54f1ad507a;Novice;1;2;2;1;4;0;3;;1.0;594;0.6875;8;1;46.8993
+358;8;9;-3;5r1k/5p1p/5P1N/8/8/8/8/2K5;Weiß kann vielleicht noch gewinnen;4;54f1ad507a;Novice;2;3;2;1;2;1;1;;;594;0.9375;6;1;55.3428
+366;14;12;-5;8/8/8/1b1k1B2/2b3B1/5K1B/8/8;Bauern ausgetauscht mit Läufern;3;54f1ae687a;Novice;2;2;2;1;4;1;1;;;487;0.796875;7;1;59.2967
+369;6;11;-4;8/1kP1p3/2PpP3/3K4/8/8/8/8;da passiert nicht mehr;2;54f1ae687a;Novice;2;3;2;1;4;1;1;;;487;0.703125;7;1;45.991800000000005
+371;2;8;0;8/qkN3RR/8/3p2P1/8/8/8/4K3;weiße Spieler kann die Dame des gegners vom Brett nehmen, wenn Pferd bewegt wird;4;54f1af8a7a;Novice;1;3;2;1;1;1;1;;;671;0.859375;8;1;32.4711
+375;11;8;1;8/8/1P1k4/3P1pp1/6P1/7p/5K1P/8;Viele Bauern die weit verstreut sind;1;54f1af8a7a;Novice;2;2;2;1;4;1;2;;;671;0.734375;9;1;31.3189
+376;14;12;0;8/p7/P1p5/2kb1Bp1/6Pp/1P3K1P/8/8;Das ist ziemlich das gleiche mit den gleichen Figuren;1;54f1af8a7a;Novice;2;2;2;1;2;1;4;;;671;0.921875;12;1;49.3548
+379;6;11;1;8/8/7k/4pPpp/3pP1P1/2pP3K/2P5/8;Nichtr groß geändet..;2;54f1af8a7a;Novice;1;3;2;1;2;1;1;;;671;0.96875;12;1;35.4029
+382;1;7;-1;8/8/b2n4/8/8/5N2/6R1/4K2k;Weiß hat den schwarzen König unter Kontrolle gebracht;2;54f1b0a27a;Novice;2;3;2;1;5;1;1;;;532;0.796875;6;1;27.509899999999995
+385;11;8;0;8/1p6/p4k2/3p4/P2P3P/5K2/8/8;Das gleiche Bild wie vorher;1;54f1b0a27a;Novice;2;2;2;1;1;1;3;;;532;0.875;8;1;57.6462
+387;12;8;0;8/6n1/1p1k4/p4N2/3P1P2/3K4/8/8;Ein Remi, oder vielleicht ach icht;3;54f1b0a27a;Novice;2;2;2;1;4;1;2;;;532;0.765625;8;1;37.9211
+391;2;8;-2;8/8/KQn1r3/7r/4k3/8/8/8;Pferd kann so gesetzt werden, dass es den eigenen Turm verteidigt und dieser Druck auf die weiße Königin ausbauen kann.;4;54f1b1ce7a;Novice;1;3;2;1;2;1;3;;;608;0.78125;6;1;43.9094
+401;2;8;0;1Q6/2R2Nrk/3p4/8/4K1P1/8/8/8;Turm kann König bald nehmen;4;54f19c667a;Novice;2;3;2;1;3;1;3;;;573;0.84375;8;1;57.3661
+404;3;13;2;8/3B4/5p1k/4pPp1/3pP1P1/2pPb2K/2P5/7b;Zwei neue Springer sind dazu gekommen;5;54f19c667a;Novice;2;3;2;1;4;1;4;;;573;0.953125;15;1;40.2866
+411;2;8;0;Q7/1R3Bqk/4p3/8/6P1/8/8/4K3;Schwarze Königin wird verloren sein;4;54f19d927a;Novice;1;4;2;1;4;1;1;;;495;0.875;8;1;59.2794
+412;1;7;-1;7k/8/4NR2/2n3P1/8/8/7b/8;ähnliche Sitiaton;2;54f19d927a;Novice;2;3;2;1;1;0;1;;1.0;495;0.828125;6;1;32.8866
+423;5;14;2;2r1b3/p7/1p1Nkp2/4p1p1/P2P3P/4P3/8/1R2K3;der schwarze König ist unter Durck durc weites Pferd;2;54f19eaa7a;Novice;1;2;2;1;4;1;2;;;642;0.671875;16;1;37.532
+425;11;8;3;8/1bp5/1p6/2p2k2/PPP4P/1B3K2/8/8;Der schwarze könig ist leicht evrschoben und zwei Bischoops sind dazu gejommen.;1;54f19eaa7a;Novice;2;2;2;1;4;1;2;;;642;0.84375;11;1;42.8751
+437;12;8;3;8/3b3p/4B1pP/6P1/3kp1K1/4P3/3P4/8;Immer noch ein ordentliches position;3;54f19fcc7a;Novice;2;2;2;1;4;1;3;;;589;0.71875;11;1;32.3123
+441;2;8;-1;7R/qk1N2R1/3p4/8/8/8/8/2K5;Weiß kann einen taktischen Zug machen, um die schwarze Dame zu gewinnen;4;54f1a0ee7a;Novice;1;3;2;1;5;1;4;;;567;0.828125;7;1;46.4645
+442;1;7;-1;k7/2RN4/5n2/8/8/b7/8/6K1;Das habe ich gespiegelt;2;54f1a0ee7a;Novice;2;3;2;1;2;0;2;;1.0;567;0.796875;6;1;50.0264
+444;3;13;0;8/8/3k1p2/4pPp1/3pP1P1/2pP3K/2P3B1/8;Ich weiß es nicht besser;3;54f1a0ee7a;Novice;2;3;2;1;1;1;2;;;567;0.9375;13;1;70.8851
+445;11;8;0;8/1p6/p4k2/3p4/P2P3P/5K2/8/8;Mir fällt es schwer eine ander Position zu zeigen;1;54f1a0ee7a;Novice;2;2;2;1;2;1;3;;;567;0.875;8;1;34.0321
+447;12;8;0;8/1p6/p7/P1p1k3/2P5/3PK3/8/8;Keine Ahnung;3;54f1a0ee7a;Novice;2;2;2;1;1;1;3;;;567;0.96875;8;1;43.7363
+449;6;11;0;8/8/5k2/4pPp1/3pP1P1/2pP3K/2P5/8;Der schwarze könig blokciert es nun;2;54f1a0ee7a;Novice;2;3;2;1;1;1;1;;;567;0.96875;11;1;36.9557
+452;1;7;-1;k7/3N4/2R2n2/8/8/7b/8/6K1;Schwarzer König unter Druck;2;54f1a2107a;Novice;2;3;2;1;2;0;3;;1.0;701;0.84375;6;1;60.1696
+455;11;8;-1;8/8/p7/2P2k2/P1p4P/4K3/8/8;Eine Art wo alles Gleich ist.;1;54f1a2107a;Novice;2;2;2;1;2;1;2;;;701;0.921875;7;1;48.51390000000001
+462;1;7;-1;7K/b7/8/8/4n3/2R5/3N4/k7;der weiße Turm kann den schwarzen König nicht matt setzen ohne Support vom weißen Pferd;2;54f1a3327a;Novice;2;3;2;1;2;0;2;;1.0;523;0.8125;6;1;70.3806
+465;11;8;-1;8/1p6/N3k3/2P5/B1p5/4K3/8/8;eine ähnliche Situation;1;54f1a3327a;Novice;2;2;2;1;4;1;1;;;523;0.890625;7;1;58.8461
+466;14;12;-3;8/8/8/1pk2B2/pP3bP1/PK6/8/8;Einfach nur so gespiegelt.;1;54f1a3327a;Novice;2;2;2;1;2;1;2;;;523;0.765625;9;1;32.9871
+468;8;9;-1;8/5Pp1/p2r2N1/2kR3K/8/8/8/8;Ein starke Turm der sich dem schwarzen König annimt;4;54f1a3327a;Novice;1;3;2;1;2;1;2;;;523;0.75;8;1;46.9317
+471;2;8;-2;8/8/8/8/1R6/R4Nkq/8/3K4;Turm greift den König gleich an;4;54f1a44a7a;Novice;1;3;2;1;5;1;4;;;648;0.78125;6;1;59.2382
+475;11;8;-1;8/1p6/b7/2n1k3/B1N5/4K3/8/8;PFerde und läufer sind neu dazugekommen;1;54f1a44a7a;Novice;2;2;2;1;4;1;4;;;648;0.921875;7;1;41.2601
+476;14;12;-2;8/8/2pkB3/1pP5/pPKb4/P7/8/8;Bauern blocken sich gegenseitig aus.;5;54f1a44a7a;Novice;2;2;2;1;4;0;3;;1.0;648;0.703125;10;1;54.5666
+479;6;11;-1;8/5k2/8/4pPp1/3pP1P1/2pP3K/8/8;Der schwarze König hat eine andere Position eingenommen...;2;54f1a44a7a;Novice;2;3;2;1;2;1;3;;;648;0.9375;10;1;40.8378
+481;2;8;0;4k3/4q3/4N3/8/2R4p/4R1P1/8/3K4;Pferd geht, Turm greift an;1;54f1a56c7a;Novice;1;3;2;1;2;1;2;;;555;0.75;8;1;34.4745
+482;1;7;-1;4k3/8/3RN3/8/5n2/b7/8/2K5;Pferde können sich gegenseitig bekämpfen;2;54f1a56c7a;Novice;2;3;2;1;2;1;2;;;555;0.828125;6;1;52.601400000000005
+483;5;14;-1;1b3r2/3N3p/p7/5bkp/P2p4/2P5/5R2/K7;Pferd greift an den Turm und läufer.;2;54f1a56c7a;Novice;1;2;2;1;2;1;1;;;555;0.75;13;1;43.0363
+484;3;13;1;8/2k5/1p1p4/1PpP1K2/2P1p1p1/4PpP1/5P2/8;Eine ander Form die das gleich everköprtet;3;54f1a56c7a;Novice;2;3;2;1;2;1;3;;;555;0.625;14;1;41.4833
+485;11;8;1;8/1b6/N5b1/2r1k2p/B1N5/4K3/8/8;Die Figuren sind einfach ausgetaucsht;1;54f1a56c7a;Novice;2;2;2;1;4;1;1;;;555;0.875;9;1;56.7316
+487;12;8;1;8/7p/6p1/3k4/4p1P1/2K1P2P/3P4/8;Bauern habe ich nun gespiegelt.;3;54f1a56c7a;Novice;2;5;2;1;4;1;3;;;555;0.75;9;1;38.4401
+491;2;8;0;7R/qkN3R1/8/2p5/4P3/8/8/2K5;Turm greift gleich an und kann theoretisch die Königin zu nehmen;4;54f1a6847a;Novice;1;3;2;1;5;1;4;;;619;0.78125;8;1;50.62649999999999
+492;1;7;-1;8/7P/4b3/8/1K6/N7/4R3/k7;Weißer Bauer wird zur Königin, und Matt ist in aussicht;2;54f1a6847a;Novice;2;3;2;1;5;1;4;;;619;0.796875;6;1;45.9915
+493;5;14;-1;1r6/3N4/pk2p3/5b2/P1p3p1/1P6/7p/K5R1;Schwarzer Bauer kann zur Dame weredn;2;54f1a6847a;Novice;1;2;2;1;2;0;1;;1.0;619;0.71875;13;1;36.9716
+495;11;8;1;8/8/2bbb1k1/1p6/3P3P/1P2K3/8/8;Ein doch sehr ähnliches Bild mit mehreren Läufern;1;54f1a6847a;Novice;2;2;2;1;4;0;2;;1.0;619;0.796875;9;1;53.2608
+496;14;12;0;8/8/6pp/1pb1kPP1/pP4BK/8/P7/8;Gleiche Figuren anders verteilt...;1;54f1a6847a;Novice;2;2;2;1;2;1;1;;;619;0.734375;12;1;40.2237
+501;2;8;-2;R7/1R3Nqk/8/8/8/8/8/4K3;weißes Pferd kann den eigenen Turm schützen und somit greift Turm die Dame an;4;54f18f507a;Novice;1;3;2;1;2;1;1;;;582;0.9375;6;1;30.8182
+502;1;7;-1;8/7k/4NR2/8/3n4/7b/8/6K1;Der Turm ist noch flexibel genug sich dem schwarzen König zu stelen;2;54f18f507a;Novice;2;3;2;1;2;1;3;;;582;0.828125;6;1;47.5028
+505;11;8;-1;8/8/8/8/1p4P1/P1Pk3p/8/3K4;es könnte zur Dame für Schwarz kommen.;1;54f18f507a;Novice;2;2;2;1;4;1;2;;;582;0.765625;7;1;35.4212
+506;14;12;-3;8/8/8/8/3knpp1/5K2/4pNP1/4P3;alles blockt sich aus;1;54f18f507a;Novice;2;2;2;1;4;1;3;;;582;0.734375;9;1;55.2548
+508;8;9;-1;8/8/5r1k/5p1p/5P1N/8/2K5/6R1;alles nur verschoben.;4;54f18f507a;Novice;1;3;2;1;2;1;1;;;582;0.796875;8;1;43.3703
+512;1;7;0;8/6k1/4NR2/2n3P1/7b/8/8/3K4;Der schwarze König wird in die Ecke gedrängt.;2;54f191627a;Novice;2;3;2;1;2;1;1;;;634;0.78125;7;1;45.5576
+513;5;14;0;2b2r2/7p/pk3Np1/3p1p2/P7/8/2P2P2/2K3R1;chwarze König wird wieder unter Druck gesetet;1;54f191627a;Novice;1;2;2;1;2;1;2;;;634;0.90625;14;1;52.2314
+517;12;8;2;8/1p6/1Ppk2p1/2P2p2/5P2/4PK2/8/8;Ein ähnliche Situation;3;54f191627a;Novice;2;2;2;1;4;1;4;;;634;0.78125;10;1;52.8823
+521;2;8;0;7R/qkB3R1/3p4/6P1/8/8/8/4K3;weiße Spieler hat die Option, die wertvollste Figur des Gegners zu schlagen;4;54f193247a;Novice;1;3;2;1;2;0;1;;1.0;506;0.875;8;1;49.1584
+526;14;12;1;8/p7/Pp3pp1/1Pk2PPp/3bK3/5B2/8/8;irgendwie was ähnliches,;1;54f193247a;Novice;2;2;2;1;2;1;1;;;506;0.765625;13;1;41.9955
+529;6;11;2;8/8/1PpPk3/Pp1pK3/p3Pp2/5P2/8/8;Die könige machen sich bereit und die bauern sthen sich gegenüber;2;54f193247a;Novice;2;2;2;1;2;1;3;;;506;0.671875;13;1;39.9653
+530;15;12;6;8/p6p/P3k1pP/2p1b1P1/3b2p1/5KPp/1P2B2P/5B2;Einfach mit mehreren Figuren für mehr Komplezitaet;3;54f193247a;Novice;2;1;2;1;4;1;2;;;506;0.75;18;1;34.9652
+531;2;8;-2;1q6/1k6/1N6/8/8/8/1R6/2R1K3;Pferd sich bewegen und Turm kann auf König und dannach Königin gehen;4;54f1946e7a;Novice;1;3;2;1;2;1;2;;;677;0.828125;6;1;33.3611
+532;1;7;-1;7k/4NR2/2n3P1/8/8/7b/8/8;irgendwas;2;54f1946e7a;Novice;2;3;2;1;1;1;1;;;677;0.984375;6;1;45.3145
+537;12;8;-2;8/8/p1k2P2/1P1Kp3/8/8/8/8;Bauern greifen sich gegenseitig an;3;54f1946e7a;Novice;2;2;2;1;2;1;1;;;677;0.828125;6;1;53.8631
+542;1;7;2;8/4NRpk/2n4p/6P1/8/7b/8/3K4;Der schwarze König ist noch geschützt und wird sich zur Wehr setzen könnne.;2;54f195a47a;Novice;2;3;2;1;1;1;1;;;543;0.875;9;1;34.1125
+543;5;14;3;1rb2r2/8/pk3N1p/2p3p1/3P1P1P/8/1P4P1/4K1R1;Das Spiel ist ausgeglochen;2;54f195a47a;Novice;1;2;2;1;2;1;1;;;543;0.765625;17;1;47.3027
+546;14;12;4;p6p/p5p1/Pp4p1/kP1pB1Pp/3bP1K1/8/8/8;Noch mehr Bauern auf dem Spielfeld.;1;54f195a47a;Novice;2;2;2;1;2;1;3;;;543;0.703125;16;1;41.2983
+549;6;11;5;8/1k6/1PpP4/Pp1pK3/p3Pp2/5Pp1/6Pp/8;Ein ganz großes V-Form wurde erstellt;2;54f195a47a;Novice;2;3;2;1;2;1;1;;;543;0.625;16;1;37.1425
+551;2;8;0;8/1R3Bqk/R2p4/6P1/8/8/8/4K3;weißes Läufer kann den Turm schützen und Turm kann die Dame angreifen;4;54f196c67a;Novice;1;3;2;1;2;1;2;;;621;0.921875;8;1;53.4222
+552;1;7;0;7k/4NR2/3b4/6P1/8/7b/8/3K4;Weis nicht;2;54f196c67a;Novice;2;3;2;1;2;1;1;;;621;0.90625;7;1;50.0294
+553;5;14;0;2b1r3/8/p2N4/2p3k1/3P3P/6P1/8/6RK;viele Bauern auf einmal;2;54f196c67a;Novice;1;2;2;1;4;1;3;;;621;0.703125;14;1;48.2884
+562;1;7;-1;8/4NR1k/2b3P1/8/8/7n/8/3K4;Etwas veränderte Sitautaion;2;54f197f27a;Novice;2;3;2;1;1;0;2;;1.0;598;0.90625;6;1;45.2832
+563;5;14;-2;1b3r2/6p1/pk3N2/2p5/2KP3P/3R2P1/8/8;Leicht verändert;2;54f197f27a;Novice;1;2;2;1;2;0;1;;1.0;598;0.78125;12;1;54.8747
+567;12;8;0;8/1p6/p7/P1p1k3/2P5/3PK3/8/8;Die Bauern spielen sich gegenseitig aus.;3;54f197f27a;Novice;1;2;2;1;1;1;3;;;598;0.96875;8;1;38.7559
+568;8;9;0;2r1k3/2p1p3/2P1N3/8/7p/8/5K2/3R4;Wieder leicht gespiegelt;4;54f197f27a;Novice;1;3;2;1;2;1;2;;;598;0.71875;9;1;43.7646
+571;2;8;-2;2R1K3/8/8/8/4p3/2N5/2k5/2q5;Pferd kann schwarzen Bauern nehmen und Turm kann auf Königin gehen;4;54f199147a;Novice;2;3;2;1;2;1;3;;;563;0.78125;6;1;42.6332
+573;5;14;-4;1b3b2/7p/pk3Np1/8/8/8/3P4/2R2K2;Ein paar Figuren wurde verändern;2;54f199147a;Novice;1;2;2;1;4;1;1;;;563;0.828125;10;1;41.5774
+577;12;8;-1;8/8/4k1pP/5pP1/5P2/5K2/8/8;Gespiegelte Position;3;54f199147a;Novice;2;2;2;1;4;1;4;;;563;0.765625;7;1;43.73
+578;8;9;-1;3k1r2/3p1p2/3P1N2/8/8/8/4K3/4R3;Habe es einfach als Block dargestellt.;4;54f199147a;Novice;1;3;2;1;2;1;1;;;563;0.828125;8;1;30.8541
+579;6;11;-2;5P2/1kK1Pp2/2pPp3/3p4/8/8/8/8;Wie ein Pfeil der auf der andren Seite steht mit gleicehn Figuren;2;54f199147a;Novice;1;3;2;1;4;1;3;;;563;0.671875;9;1;46.773500000000006
+581;2;8;-2;1k6/8/4r3/QKn3r1/8/8/8/8;Das schwarze Pferd kann so hingestellt werden, dass es den eigenen Turm beschützt und gleichzeitig den weißen König bedroht.;4;54f19a2c7a;Novice;1;3;2;1;2;1;1;;;692;0.796875;6;1;39.2388
+583;5;14;-4;1b3r2/7p/4N1p1/6k1/7p/8/2R2P2/4K3;Der schwarze König ist in der H Linie eingequetscht;2;54f19a2c7a;Novice;1;2;2;1;4;1;1;;;692;0.84375;10;1;32.2192
+586;14;12;-3;8/7p/7P/2kp4/2pPB3/2P1K3/8/8;Der Läufer kann den Bauern nehmen;1;54f19a2c7a;Novice;2;4;2;1;2;1;1;;;692;0.703125;9;1;30.3624
+591;2;8;-2;8/4p3/7R/kqB3R1/8/8/8/8;Läufer kann Schach dem König geben, dann verliert der schwarze siene Dame sicher;4;54f19b4e7a;Novice;1;3;2;1;2;1;3;;;545;0.796875;6;1;30.812
+592;1;7;-1;7k/4NR2/2n5/6P1/8/8/5b2/8;Auch in dieser Position ist Schwarz wiede runterlegen;2;54f19b4e7a;Novice;2;3;2;1;2;1;2;;;545;0.921875;6;1;49.2199
+593;5;14;-4;2b5/5r1p/3N4/4p3/pk6/8/2R1P3/3K4;Das weiße Pferd und er weße Turm attackieren den König;2;54f19b4e7a;Novice;1;2;2;1;2;1;3;;;545;0.6875;10;1;52.7695
+594;3;13;-2;8/8/8/8/3p1k2/2pPp3/1pP1P3/1P1P1K2;Eien ähnliche Form;3;54f19b4e7a;Novice;1;3;2;1;2;1;3;;;545;0.75;11;1;40.6728
+597;12;8;0;8/6bk/6bb/8/8/BB6/KB6/8;Läufer sind weis und in schwarz gegenübergestellt;3;54f19b4e7a;Novice;2;2;2;1;4;1;2;;;545;0.75;8;1;59.6859
+599;6;11;-2;8/8/8/4pP1K/3pP1P1/2pP4/2k5/8;jetzt wird aufgelöst. Könige attacken;2;54f19b4e7a;Novice;2;3;2;1;2;0;1;;1.0;545;0.90625;9;1;31.4735
+604;3;13;2;8/2b3p1/5pP1/4pP2/2kpP3/2pPK3/1pP5/1P6;Eine L Form die auch blockiert;3;54f183d47a;Novice;2;3;2;1;4;1;4;;;817;0.8125;15;1;81.1509
+605;11;8;2;8/p7/p3k3/2p4p/8/8/P1P3P1/4K2P;Alles wurde veschoben. ;1;54f183d47a;Novice;2;2;2;1;4;1;5;;;817;0.78125;10;1;38.5065
+609;6;11;2;8/1pP2KPp/2pP1Pp1/3pPp2/4k3/8/8/8;gespiegeltes V nach oben hin;2;54f183d47a;Novice;2;3;2;1;4;1;1;;;817;0.671875;13;1;38.3798
+611;2;8;-2;8/8/8/8/1R3N2/R5kq/8/3K4;Turm greift den König an;2;54f185a07a;Novice;1;3;2;1;2;1;2;;;901;0.78125;6;1;46.5482
+612;1;7;-1;8/b2N4/2k5/3Rn3/2P5/8/8/8;Der schwarze Läufer unterstütz den König und die andern machen Druck;2;54f185a07a;Novice;2;3;2;1;2;1;1;;;901;0.8125;6;1;32.5801
+614;3;13;-1;8/8/8/4p1k1/3pPp2/2pP1P2/1pP5/1P4K1;Auch eine  Form;3;54f185a07a;Novice;2;3;2;1;2;1;2;;;901;0.8125;12;1;51.0467
+615;11;8;-1;1p6/p7/5k2/8/7P/5K2/P1P5/8;Dai Bauern wurden neu aufgestellt.;1;54f185a07a;Novice;2;2;2;1;2;1;2;;;901;0.796875;7;1;31.4969
+617;12;8;-1;8/1p6/p7/P1p1k3/8/3PK3/8/8;Irgendwie alles gleich;3;54f185a07a;Novice;2;2;2;1;2;0;3;;1.0;901;0.953125;7;1;50.3865
+618;8;9;-1;k1r5/b1P5/n1p5/8/8/8/8/1RK5;Ziehmlich a4hnlcih aber doch anders.G;2;54f185a07a;Novice;1;3;2;1;2;0;3;;1.0;901;0.734375;8;1;45.6412
+623;5;14;0;1b2r3/7p/pk1N2p1/5p2/P6P/8/1P3P2/R1K5;Ausgeglichen;5;54f186c27a;Novice;1;2;2;1;2;1;1;;;732;0.8125;14;1;48.4958
+626;14;12;1;1b4b1/8/p5P1/P3k1p1/2p4p/4K3/2P5/1B4B1;Bauern wurden umverteilt;1;54f186c27a;Novice;2;5;2;1;4;1;5;;;732;0.71875;13;1;49.8533
+627;12;8;2;8/3KN3/3Nn3/2Nn4/1Nn5/1nk5/8/8;Eine Linie mit Pferden;3;54f186c27a;Novice;2;2;2;1;4;1;5;;;732;0.75;10;1;31.0407
+635;11;8;-2;8/8/3k1K2/2p3p1/2P4P/8/8/8;Weniger geht auch;1;54f187ee7a;Novice;2;2;2;1;4;1;5;;;892;0.875;6;1;51.4905
+636;14;12;-6;8/8/8/3k1p2/5Pp1/4K1P1/8/8;Immer noch weniger als vorher;1;54f187ee7a;Novice;2;2;2;1;4;1;4;;;892;0.75;6;1;38.9629
+639;6;11;-5;8/4pK2/3pP3/2pP4/1k6/8/8/8;Einfach eine Diagonale;2;54f187ee7a;Novice;2;3;2;1;4;1;4;;;892;0.703125;6;1;54.066
+641;2;8;-2;k7/8/8/8/r7/1r3nKQ/8/8;Schwarzes Pferd kann so gesetzt werden, dass es den eigeen Turm verteidigt und der weiße König im Schach steht;4;54f1891a7a;Novice;2;3;2;1;2;1;3;;;670;0.796875;6;1;44.2122
+642;1;7;-1;3K4/8/7b/8/4n3/8/2RN4/k7;Der schwarze König und das gesamt Brett habe ich horizontal und quer gepiegelt;2;54f1891a7a;Novice;2;3;2;1;2;1;3;;;670;0.796875;6;1;48.53
+644;3;13;-1;8/8/5p1k/4pPp1/3pP1P1/2pP3K/2P5/8;gggg;3;54f1891a7a;Novice;2;4;2;1;2;1;3;;;670;0.984375;12;1;42.67229999999999
+645;11;8;-1;8/1p6/pk6/3p4/3P3P/2K5/8/8;ja das geht ja auch;1;54f1891a7a;Novice;2;2;2;1;4;1;4;;;670;0.859375;7;1;33.9651
+650;15;12;5;8/pPp5/P1P5/Pp4pp/2p1k1P1/3b2pP/5B2/2K5;mhjm;3;54f1891a7a;Novice;1;1;2;1;2;0;1;;1.0;670;0.703125;17;1;46.0041
+653;5;14;2;1b6/p4r2/1kq1N1p1/7p/2B5/5P1P/4B3/2Q1K1R1;Die beiden Damen ko4nnen ich gegenseiten ausschliesen;2;54f18a467a;Novice;1;2;2;1;4;1;3;;;852;0.703125;16;1;55.793
+655;11;8;3;8/1p6/p7/2p1kq2/2P1Q2P/P1P1K3/8/8;Die Damen sind mit dazu gekommen ;1;54f18a467a;Novice;1;3;2;1;4;1;4;;;852;0.921875;11;1;34.0201
+657;12;8;3;8/4PP2/2KPppp1/2Pp4/2p1k3/8/8/8;Die Bauern verschieben sich bloß auf dem Brett;5;54f18a467a;Novice;2;2;2;1;4;1;4;;;852;0.734375;11;1;35.4234
+660;15;12;6;8/2Ppp3/p1PpP2p/P2b1kp1/2p3P1/4B1pP/8/2K5;Ich habe kleinere Boxen aus Figuren gebaut.;3;54f18a467a;Novice;2;1;2;1;2;1;3;;;852;0.640625;18;1;31.8379
+664;3;13;1;8/8/5p1k/4pPp1/3pP1P1/2pP3K/2P5/7B;Alles gleich geblieben;3;54f18b687a;Novice;2;1;2;1;1;0;3;;1.0;1015;1.0;14;1;49.6297
+665;11;8;1;8/1p6/p2p1k2/3p4/P2P3P/4K3/8/8;Ich habe nichts groß geändert;1;54f18b687a;Novice;2;5;2;1;2;1;3;;;1015;0.890625;9;1;37.6046
