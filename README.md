@@ -14,13 +14,11 @@ We analyzed the written responses from chess players tasked with explaining thei
 
 ## Methodology
 
-* **Data Collection:** Written explanations were collected from chess players immediately after they generated an analogous board position. The raw data can be found in the `/300_final` directory.
-* **Analysis Tools:** Four different large language models (LLMs) from the Hugging Face `transformers` library were used to analyze the textual data. The models are specified within the analysis script.
-* **Theoretical Framework:** The analysis is based on the definition of **structural similarity** from Gentner, D. (1983). *Structure-mapping: A theoretical framework for analogy*. Cognitive Science, 7(2), 155-170.
-* **Statistical Analysis:** For all quantitative analyses, a series of chi-square tests of independence were conducted to evaluate the results.
+* **Data Collection:** Written explanations were collected from chess players immediately after they generated an analogous board position. The raw data can be found in the `/300_final.csv`.
+* **Analysis Tools:** Four different large language models (LLMs) from the OPENROUTER model library were used to analyze the textual data. The models are specified within the analysis script.
+* **Theoretical Framework:** The analysis is based on the definition of **structural similarity** from Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7(2), 155–170. https://doi.org/10.1016/s0364-0213(83)80009-3. 
 
 ## Repository Contents
-
 * `/structural_similarity_results`: Contains the raw and processed data from the study (`300_final.csv`).
 * `/prompts.py`: Contains the exact prompts used to query the large language models.
 * `/main.py`: Includes the Python analysis script.
